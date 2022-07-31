@@ -1,0 +1,40 @@
+.lead {
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.lead2 {
+  font-size: 25px;
+  color: blueviolet;
+}
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+div.custom-margin {
+  margin-bottom: 1rem;
+}
+
+div.custom-card {
+  padding: 1rem;
+}
+
+img {
+  padding: 1rem;
+}
+
+h1 {
+  size: 45px;
+  font-family: "Courier New", Courier, monospace;
+  color: blueviolet;
+  text-align: center;
+}
+
+h2,
+h3 {
+  size: 45px;
+  font-family: "Courier New", Courier, monospace;
+  color: blueviolet;
+  margin-left: 20px;
+}
